@@ -1,4 +1,3 @@
-# rs-school cv
 
 # Walid Muradov Web Developer
 
