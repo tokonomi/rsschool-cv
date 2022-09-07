@@ -44,5 +44,9 @@ It should remove all values from list a, which are present in list b keeping the
 
 1. StepIt Academy 2020-2022
 2. Udemy ModernReact with Redux (Stephen Grider)
-3. English B1
+
+## Languages
+
+1. English B1
+2. Russian Fluent
 
