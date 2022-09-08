@@ -1,4 +1,3 @@
-# rs-school cv
 
 # Walid Muradov Web Developer
 
@@ -23,6 +22,7 @@ in this area, become better of my current version, grow up not omly as a human a
 7. Angular, React(Redux)
 
 ## Code Example
+### Codewars
 Your goal in this kata is to implement a difference function, which subtracts one list from another and returns the result.
 
 It should remove all values from list a, which are present in list b keeping their order.
@@ -50,4 +50,5 @@ It should remove all values from list a, which are present in list b keeping the
 1. English B1
 2. Russian Fluent
 3. Japanese N5
+4. Azerbaijani Fluent
 
